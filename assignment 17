@@ -1,0 +1,6 @@
+n = [1, 2, 5, 4, 9]
+print("List before reverse : ",n)
+l = []
+for i in n:
+  l=  [i]+l
+print("List after reverse : ",l)
