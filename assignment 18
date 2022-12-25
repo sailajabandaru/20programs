@@ -1,0 +1,8 @@
+n=int(input('enter list values:'))
+l=list(map(int,iput().split()))
+m=[]
+for i in l:
+    if i not in m:
+        m.append(i)
+m.sort(reverse=True)
+print(m[1])
