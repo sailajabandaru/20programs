@@ -1,0 +1,5 @@
+l = [2,45,1,8,50,10]
+print("given list :",l)
+print("\nMaximum of list :",max(l))
+print("Minimum of list :",min(l))
+print('the difference b/w max and min is:',max(l)-min(l))
