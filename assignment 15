@@ -1,0 +1,6 @@
+l= [1,2,3,4,1,2,33,67] 
+n= set(l) 
+print("The unique elements of the input list:\n") 
+a= (list(n))
+for i in a: 
+    print(i) 
